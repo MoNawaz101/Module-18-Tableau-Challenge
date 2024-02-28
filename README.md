@@ -5,12 +5,12 @@ To visualise Citi Bike data provided by the company in Tableau
 
 ## Files
 ### Jupyter notebook files
-- clean_citibike_data.ipynb
---File used to clean and process the citbike data
+ clean_citibike_data.ipynb
+- File used to clean and process the citbike data
 
-### Tableau Workboo
-- Citibike Data Analysis MN.twbx
-- - Tableau visualisation of bike usage in New Jersey in 2022
+### Tableau Workbook
+Citibike Data Analysis MN.twbx
+ - Tableau visualisation of bike usage in New Jersey in 2022
 
 ## References
 - https://citibikenyc.com/system-data
